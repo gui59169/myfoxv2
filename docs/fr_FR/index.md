@@ -1,5 +1,3 @@
-Myfox Home
-=
 
  Présentation
 ===
