@@ -1,22 +1,23 @@
-== Myfox Home
-
-=== Présentation
+Myfox Home
+=== 
+ Présentation
+=== 
 
 Plugin permettant de dialoguer avec L'API Myfox api.myfox.me, pour les boxes domotique/alarme Myfox, également valable pour Evology (leroy merlin).
 
-'''
-=== Prérequis, installation
 
+ Prérequis, installation
+=== 
 Vous devez au prealable recuperer vos identifiants sur http://api.myfox.me (connectez vous avec le meme identifiant que l'application iphone/android).
 
-'''
-=== Configuration
 
+Configuration
+=== 
 Aprés avoir fait une MISE A JOUR du plugin, vous devez à nouveau sauvegarder l'equipement.
 
-'''
-=== Création et utilisation des équipements  
 
+Création et utilisation des équipements  
+=== 
 Ajoutez un équipement, puis indiquez-y les informations récupérées sur http://api.myfox.me (My applications) :
 
 - Client iD
@@ -26,9 +27,9 @@ Ajoutez un équipement, puis indiquez-y les informations récupérées sur http:
 
 ATTENTION : Ne pas faire d'erreur avec le client id, client secret, id, password. En cas d'erreur, votre compte Myfox sera bloqué pendant 1 heure depuis votre IP.
 
-'''
-=== Fonctionnement du plugin
 
+Fonctionnement du plugin
+=== 
 Une fois cliqué sur le bouton "sauvegarder" le plugin recupere vos capteurs de temperature, lumiere, actionneur prise, lumiere, module, garage... C'est pourquoi il ne faut pas d'erreur dans les identifiants.
 
 Le plugin récupere toutes les minutes :
