@@ -1,7 +1,8 @@
 Myfox Home
-=== 
+==
+
  Présentation
-=== 
+===
 
 Plugin permettant de dialoguer avec L'API Myfox api.myfox.me, pour les boxes domotique/alarme Myfox, également valable pour Evology (leroy merlin).
 
