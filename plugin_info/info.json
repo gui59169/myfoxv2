@@ -9,11 +9,11 @@
 	"hasDependency" : false,
 	"hasOwnDeamon" : true,
 	"maxDependancyInstallTime" : 0,
-	"changelog" : "https://jeedom.github.io/myfoxv2/#language#/changelog",
-	"documentation" : "https://jeedom.github.io/myfoxv2/#language#/",
+	"changelog" : "https://gui59169.github.io/myfoxv2/fr_FR/changelog",
+	"documentation" : "https://gui59169.github.io/myfoxv2/fr_FR/",
 	"link" : {
 		"forum":"https://www.jeedom.com/forum/viewtopic.php?f=28&t=15790"
 	},
-	"language" : ["fr_FR","en_US","de_DE","sp_SP","ru_RU","id_ID","it_IT"],
+	"language" : ["fr_FR"],
 	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile"]
 }
