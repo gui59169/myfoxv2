@@ -953,7 +953,7 @@ class myfoxv2Cmd extends cmd {
 			break;
 			
 			case 'Event_security':
-			$api_url = MYFOXURL . str_replace($pattern, $siteid, $request) ."?access_token=" . $$token . $dateparams .'&type=security';
+			$api_url = MYFOXURL . str_replace($pattern, $siteid, $request) ."?access_token=" . $token . $dateparams .'&type=security';
 			break;
 			
 			case 'Event_scenario':
