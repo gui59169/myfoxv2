@@ -38,8 +38,17 @@ Le plugin récupere toutes les minutes :
 	* Luminosite : paliers de retour de 1 à 6 . 1= pleine lumiere,  6 = obscurite 
 
 
-- Dernier evenement de type "alarm" ( intrusion, defaut centrale, defaut pile ) sous la forme : "Alarme « Intrusion » déclenchée par l'appareil « ENTREE » (Sensibilité: 5). le xxxx à xxx."
-	* S'il n'y a pas d'evenement dans la journée, la commande retourne : Aucun *
+- Derniers evenements (historique sur 1 an, s'il n'y a pas d'evenement sur 1 an, la commande retourne : Aucun )
+	* de type "alarm" ( intrusion, defaut centrale, defaut pile ) sous la forme : "Alarme « Intrusion » déclenchée par l'appareil « ENTREE » (Sensibilité: 5). le xxxx à xxx."
+	* de type "config"
+	* de type "access"
+	* de type "account"
+	* de type "homeAuto"
+	* de type "scenario"
+	* de type "security"
+	* de type "diagnosis"
+- Dernier evenement (historique sur 1 an, tout type confondu, s'il n'y a pas d'evenement sur 1 an, la commande retourne : Aucun )
+
 
 Le plugin permet : 
 
